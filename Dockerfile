@@ -1,4 +1,3 @@
-# My Dockerfile
 FROM golang:1.13
 MAINTAINER David Greco <david.greco@one.verizon.com>
 COPY . /go/src
